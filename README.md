@@ -1,1 +1,1 @@
-Download the file and execute this.
+Download the file and execute in terminal.
