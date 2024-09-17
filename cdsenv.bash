@@ -1,3 +1,3 @@
-license	VSELicenseCheckoutOrder	string	"XL"
-license	adeMaestroCheckoutOrder	string	"Maestro"
-license	maestroCheckoutOrder	string	"Explorer, Assembler"
+echo 'license	VSELicenseCheckoutOrder	string	"XL" '> ~/.cdsenv
+echo 'license	adeMaestroCheckoutOrder	string	"Maestro" ' >> ~/.cdsenv
+echo 'license	maestroCheckoutOrder 	string	"Explorer, Assembler" ' >> ~/.cdsenv
